@@ -1,0 +1,29 @@
+.text-one {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.text-two {
+    font-family: 'Times New Roman', serif;
+    font-size: 30px;
+    text-decoration: line-through;
+}
+
+.text-three{
+    font-size: 30px;
+    text-align: center;
+}
+
+.text-four{
+    font-size: 20px;
+    word-spacing: 30px;
+    text-decoration: overline wavy 2px;
+    text-shadow: 0.1em 0.1em 0.1em #c916ff;
+}
+
+.text-five{
+    font-size: 20px;
+    text-decoration: underline double 2px;
+    letter-spacing: 5px;
+}
